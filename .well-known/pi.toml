@@ -1,6 +1,6 @@
 VERSION="1.0.0"
 [[PRINCIPALS]]
-name="Zynmart Tokens Issuer"
+name="Tokens Issuer"
 [[CURRENCIES]]
 code="Garbi314k"
 issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
