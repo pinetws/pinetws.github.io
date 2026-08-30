@@ -1,33 +1,39 @@
 VERSION="1.0.0"
+
 [[PRINCIPALS]]
 name="Tokens Issuer"
+
 [[CURRENCIES]]
 code="Garbi314k"
 issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
 name="Garbi 314k"
 desc="Garbi 314k Community Token"
-image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/garbi314k.svg"
+image="https://cryptologos.cc/logos/pi-network-pi-logo.png"
+
 [[CURRENCIES]]
 code="SIDRA"
 issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
 name="SidraChain"
 desc="SidraChain Token"
-image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/sidra.png"
+image="https://www.sidrachain.com/icon.png"
+
 [[CURRENCIES]]
 code="BEE"
 issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
 name="Bee Network"
 desc="Bee Network Token"
-image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/bee.png"
+image="https://i.logos-download.com/11998/2944-s1280-07ac08c2761d3f0c3d5fdf3d7edb690c.png/Bee_Network_Logo-s1280.png"
+
 [[CURRENCIES]]
 code="TEMU"
 issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
 name="Temu"
 desc="Temu Token"
-image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/temu.png"
+image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Temu_logo.svg/512px-Temu_logo.svg.png"
+
 [[CURRENCIES]]
 code="SHEIN"
 issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
 name="Shein"
 desc="Shein Fashion Token"
-image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/shein.png"
+image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Shein-logo.svg/512px-Shein-logo.svg.png"
