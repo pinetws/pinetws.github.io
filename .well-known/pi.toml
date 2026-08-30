@@ -1,1 +1,33 @@
-
+VERSION="1.0.0"
+[[PRINCIPALS]]
+name="Zynmart Tokens Issuer"
+[[CURRENCIES]]
+code="Garbi314k"
+issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
+name="Garbi 314k"
+desc="Garbi 314k Community Token"
+image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/garbi314k.svg"
+[[CURRENCIES]]
+code="SIDRA"
+issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
+name="SidraChain"
+desc="SidraChain Token"
+image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/sidra.png"
+[[CURRENCIES]]
+code="BEE"
+issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
+name="Bee Network"
+desc="Bee Network Token"
+image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/bee.png"
+[[CURRENCIES]]
+code="TEMU"
+issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
+name="Temu"
+desc="Temu Token"
+image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/temu.png"
+[[CURRENCIES]]
+code="SHEIN"
+issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
+name="Shein"
+desc="Shein Fashion Token"
+image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/public/images/shein.png"
