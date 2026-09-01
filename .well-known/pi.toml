@@ -9,31 +9,3 @@ issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
 name="Garbi 314k"
 desc="Garbi 314k Community Token"
 image="https://raw.githubusercontent.com/pinetws/pinetws.github.io/main/garbi314k.jpg"
-
-[[CURRENCIES]]
-code="SIDRA"
-issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
-name="SidraChain"
-desc="SidraChain Token"
-image="https://www.sidrachain.com/icon.png"
-
-[[CURRENCIES]]
-code="BEE"
-issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
-name="Bee Network"
-desc="Bee Network Token"
-image="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://bee.com&size=256"
-
-[[CURRENCIES]]
-code="TEMU"
-issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
-name="Temu"
-desc="Temu Token"
-image="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://temu.com&size=256"
-
-[[CURRENCIES]]
-code="SHEIN"
-issuer="GAFMNPNSJUC6OQJHRZ26YBLJVSBKWLMSXRJ35NHSJBUBCZYTXHSD7P3B"
-name="Shein"
-desc="Shein Fashion Token"
-image="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://shein.com&size=256"
